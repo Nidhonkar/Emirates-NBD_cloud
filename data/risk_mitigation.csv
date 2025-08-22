@@ -1,0 +1,7 @@
+Risk,Likelihood,Impact,Mitigation
+Compliance & Data Residency,Medium,High,"Hybrid cloud (UAE regions), encryption, audits"
+Cybersecurity & API Abuse,High,High,"OAuth2, WAF, rate limiting, SIEM"
+Vendor Lock-in,Medium,Medium,"Kubernetes/OpenShift, multi-cloud"
+Legacy Integration,Medium,High,"API façade, phased modernization"
+Talent & Culture,Medium,Medium,"Upskilling, agile squads, hiring"
+Copy-cat Risk,High,Medium,"Fintech fund, ecosystem moats"
