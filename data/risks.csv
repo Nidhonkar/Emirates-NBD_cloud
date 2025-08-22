@@ -1,0 +1,7 @@
+Risk,Likelihood,Impact,Mitigation,Source
+Compliance & Data Residency,Medium,High,"Hybrid cloud in UAE, audits",PwC (2024)
+Cybersecurity,High,High,"OAuth2, WAF, SIEM",PwC (2023)
+Vendor Lock-in,Medium,Medium,Kubernetes/OpenShift,Red Hat (2019)
+Legacy Integration,Medium,High,"API facade, modernization",McKinsey (2022)
+Talent Gap,Medium,Medium,"Upskilling, agile squads",PwC (2023)
+Copy-cat Risk,High,Medium,"Fintech fund, localization",Fintechnews ME (2023)

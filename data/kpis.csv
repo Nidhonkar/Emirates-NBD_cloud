@@ -1,0 +1,7 @@
+Metric,Baseline,Target,Source
+IT TCO Reduction,0,-10,PwC (2023)
+Release Cycle (days),30,7,Red Hat (2019)
+API Calls / month,0,50000,ENBD API sandbox
+Partner Revenue (AED),0,1000000,Capgemini (2019)
+SME Onboarding (hours),48,4,Fintechnews ME (2023)
+NPS Score,45,60,FinTech Futures (2020)
