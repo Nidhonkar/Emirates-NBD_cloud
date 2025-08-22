@@ -1,7 +1,0 @@
-Initiative,Metric,Baseline,Target
-Cloud,IT TCO (%),100,90
-Cloud,Release cycle (days),30,7
-APIs,API calls (monthly),0,50000
-APIs,Partner revenue (AED),0,1000000
-APIs,SME onboarding time (hrs),48,4
-Cloud+APIs,NPS (score),45,60
